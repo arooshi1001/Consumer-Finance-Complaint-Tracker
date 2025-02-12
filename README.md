@@ -4,7 +4,8 @@
 This project is an **interactive financial complaints dashboard** built using **Tableau**. It provides a detailed visualization and analysis of consumer complaints in the financial sector. The dashboard categorizes complaints by **issue type, media source, financial product, and geographical location** to help stakeholders, such as banks and financial institutions, identify trends and enhance customer service.
 
 ## 📊 Dashboard
-![image](https://github.com/user-attachments/assets/1948197f-b9bf-4fa6-ba60-209123e01445)
+![image](https://github.com/user-attachments/assets/c38247a5-fc8d-4094-9afc-7c5d3e296c31)
+
 
 ## 📌 Dashboard Highlights
 
